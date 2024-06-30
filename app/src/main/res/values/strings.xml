@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grandes Inventos</string>
+    <string name="imprenta">IMPRENTA</string>
+    <string name="imprenta_descripcion">La máquina ideada por el alemán Gutenberg, a mediados del siglo XV, permitió la producción en masa de libros. La imprenta introdujo la idea de que las máquinas eliminan empleos, si bien originó una potente industria a su alrededor compuesta por impresores, libreros y escritores, entre otros oficios.</string>
+    <string name="telefono">TELÉFONO</string>
+    <string name="telefono_descripcion">El escocés Alexander Graham Bell trabajó como experto en locución y audición (su madre y su esposa eran sordas) y, tratando de mejorar el telégrafo, investigó en la transmisión de voz hasta que, en 1876, patentó el teléfono. Este dispositivo revolucionó la comunicación permitiendo hablar al instante incluso en largas distancias. Es uno de los avances más significativos de la Segunda Revolución Industrial, hasta el punto de que marca el inicio de la sociedad moderna. Sin él el mundo no existiría tal y como hoy lo conocemos: sienta las bases para la telefonía móvil.</string>
+    <string name="bombilla">BOMBILLA</string>
+    <string name="bombilla_descripcion">Antes que Thomas Edison muchos otros intentaron las lámparas o bombillas incandescentes. A él se le considera el inventor (en 1880), pero no fue así exactamente, sino que mejoró las innovaciones de otros en iluminación eléctrica, como Humphry Davy, Matthew Evans, Warren de la Rue o Joseph Wilson Swan (con este último Edison se disputó el título de inventor). Se considera el mayor invento desde el descubrimiento del fuego.</string>
+    <string name="maquina_vapor">MÁQUINA DE VAPOR</string>
+    <string name="maquina_vapor_descripcion">La máquina de vapor inventada por el ingeniero escocés James Watt (en 1775) revolucionó el transporte y la maquinaria en el siglo XIX e impulsó la Primera Revolución Industrial, pasando rápidamente de una economía basada en la agricultura y el comercio a otra industrializada con mucha más capacidad de producción. Gracias a este invento tecnológico surgen las locomotoras, los barcos de vapor e incluso los primeros automóviles.</string>
+</resources>
